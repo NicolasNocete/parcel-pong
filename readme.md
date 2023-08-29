@@ -10,11 +10,11 @@ Adptacion de PONG a EC
      * muestra nivel
      * muestra puntaje
   * clase Pelota
-     Hereda de clase sprite
+     Hereda de clase Arc (circle)
      Velocidad
      Comportamiento: cambia de color con cada choque de paleta
-  * clase Pelota 
-     Hereda de clase sprite
+  * clase Paleta 
+     Hereda de clase rectangle
      Velocidad
      Comportamiento: mueve con cursor
      
