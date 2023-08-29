@@ -1,3 +1,23 @@
+Adptacion de PONG a EC
+  * clase Escena Juego
+     * Tiene un componente pelota
+     * Tiene un componente paleta
+     * Informa cuando colisionan
+     * guarda el nivel
+     * acumula puntaje
+     * guarda lista de obstaculos
+  * clase Escena UI
+     * muestra nivel
+     * muestra puntaje
+  * clase Pelota
+     Hereda de clase sprite
+     Velocidad
+     Comportamiento: cambia de color con cada choque de paleta
+  * clase Pelota 
+     Hereda de clase sprite
+     Velocidad
+     Comportamiento: mueve con cursor
+     
 ![phaser3-parceljs-template](https://user-images.githubusercontent.com/2236153/71606463-37a0da80-2b2e-11ea-9b5f-5d26ccc84f91.png)
 
 # Phaser 3 + Parcel Template
